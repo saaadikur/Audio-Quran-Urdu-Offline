@@ -1,2 +1,2 @@
 # Audio-Quran-Urdu-Offline
-A completely offline, ad-free Urdu Audio Quran app with English text, provided as Sadaqah Jariyah.
+Offline Urdu Audio Quran (Translation) with English navigation. No ads, no internet required.
