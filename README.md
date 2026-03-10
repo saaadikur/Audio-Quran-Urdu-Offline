@@ -28,9 +28,9 @@ Offline Urdu Audio Quran (Translation) with English navigation. No ads, no inter
 
 ## 📸 Interface Preview
 <div align="center">
-  <img src="screenshots/home.png" width="30%" alt="Home Screen">
-  <img src="screenshots/player.png" width="30%" alt="Audio Player">
-  <img src="screenshots/about.png" width="30%" alt="About Section">
+  <img src="screenshots/part_1_Premium Audio Experience.png" width="30%" alt="Home Screen">
+  <img src="screenshots/part_2_Premium Audio Experience.png" width="30%" alt="Audio Player">
+  <img src="screenshots/part_3_Premium Audio Experience.png" width="30%" alt="About Section">
 </div>
 
 ---
