@@ -73,7 +73,7 @@
 **কি করবেন:** নিচের ছবিতে দেখানো লাল বক্সের মতো **"Download anyway"** বাটনে ক্লিক করুন।
 
 <div align="center">
-  <img src="Screenshot_2.jpg" width="90%" alt="Permission Guide">
+  <img src="screenshots/download_guide.png" width="90%" alt="Permission Guide">
 </div>
 
 ### ৩. ইনস্টল সম্পন্ন করুন
