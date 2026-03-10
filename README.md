@@ -41,9 +41,9 @@
 ## 📸 Interface Preview
 
 <div align="center">
-  <img src="screenshots/part_1_Premium Audio Experience.png" width="40%">
-  <img src="screenshots/part_2_Premium Audio Experience.png" width="40%">
-  <img src="screenshots/part_3_Premium Audio Experience.png" width="40%">
+  <img src="screenshots/part_1_Premium Audio Experience.png" width="33%">
+  <img src="screenshots/part_2_Premium Audio Experience.png" width="33%">
+  <img src="screenshots/part_3_Premium Audio Experience.png" width="33%">
 </div>
 
 ## 📥 Installation Guide
