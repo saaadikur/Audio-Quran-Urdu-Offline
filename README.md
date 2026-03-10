@@ -39,16 +39,21 @@ How to learn Quran translation in Urdu? Listening is one of the most effective w
 
 Who wrote the best Quran translation in Urdu? This app compiles recognized translations from classical scholars, making it a reliable source for those seeking the "best" and "most accurate" Urdu versions.
 
-📥 Installation Guide
+## 📥 Installation Guide
+
 To ensure the security of your device, only download the official APK from this repository:
 
-Navigate to the Latest Release page.
 
-Download the Audio_Quran_v1.apk file.
 
-Open the file on your Android device.
+1.  Navigate to the [**Latest Release**](https://github.com/saaadikur/Audio-Quran-Urdu-Offline/releases/tag/v1.0.0) page.
 
-Note: You may need to grant permission to "Install from Unknown Sources" as this is an independent, ad-free release.
+2.  Download the `Audio_Quran_v1.apk` file.
+
+3.  Open the file on your Android device.
+
+4.  If prompted, grant permission to "Install from Unknown Sources" (this is required for apps not hosted on the Play Store).
+
+
 
 🛠 Tech Stack
 Platform: Android (Optimized for performance in Pakistan & Bangladesh)
