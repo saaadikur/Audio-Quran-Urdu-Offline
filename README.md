@@ -57,10 +57,8 @@ To ensure the security of your device, only download the official APK from this 
 
 ## 🛠 Tech Stack
 
-* **Platform:** Android (Kotlin/Java)
-
+* **Platform:** Android (Kotlin)
 * **Storage:** Local MP3 Integration
-
 * **UI:** Modern Dark-Theme Design
 
 
