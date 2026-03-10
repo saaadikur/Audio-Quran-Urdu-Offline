@@ -10,7 +10,7 @@
 </div>
 
 📋 Overview
-Audio Quran Urdu Offline is designed for users in Pakistan, Bangladesh, and beyond who are searching for which is the best translation of Quran in Urdu. This app provides a focused spiritual environment, answering the common need for a high-quality Urdu Quran translation app free of cost and interruptions.
+Audio Quran Urdu Offline is designed for users in Pakistan,India, Bangladesh, and beyond who are searching for which is the best translation of Quran in Urdu. This app provides a focused spiritual environment, answering the common need for a high-quality Urdu Quran translation app free of cost and interruptions.
 
 Whether you are looking to understand who did the first Urdu translation of Quran or simply want to learn Quran translation in Urdu on the go, this app stores all data locally for a 100% offline experience.
 
