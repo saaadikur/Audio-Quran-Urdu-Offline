@@ -1,7 +1,7 @@
 <div align="center">
   <img src="screenshots/logo.png" width="180" alt="Audio Quran Urdu Logo">
-  <h1>Audio Quran Urdu Offline</h1>
-  <h1>Andriod app</h1>
+  <h1>Audio Quran Urdu Offline \n Andriod app</h1>
+  
   <p><b>The most accurate, ad-free, and 100% offline Urdu Quran experience.</b></p>
 
   <p>
