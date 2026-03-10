@@ -55,22 +55,38 @@ To ensure the security of your device, only download the official APK from this 
 
 
 
-🛠 Tech Stack
-Platform: Android (Optimized for performance in Pakistan & Bangladesh)
+## 🛠 Tech Stack
 
-Storage: Local MP3 Integration (Zero Data Usage)
+* **Platform:** Android (Kotlin/Java)
 
-UI: Modern Dark-Theme Design
+* **Storage:** Local MP3 Integration
 
-🙏 A Humble Request
+* **UI:** Modern Dark-Theme Design
+
+
+
+---
+
+
+
+## 🙏 A Humble Request
+
 This project is developed with love and sincerity. If you find value in this app:
 
-Please keep the developer in your sincere Duas.
+1.  **Please keep the developer in your sincere Duas.**
 
-Share this repository to help others find the best Quran translation in Urdu.
+2.  Share the link to this repository with others.
 
-"The best of people are those that are most useful to people." — Prophet Muhammad (ﷺ)
+
+
+> "The best of people are those that are most useful to people." — Prophet Muhammad (ﷺ)
+
+
+
+---
 
 <div align="center">
-<sub>Built for the sake of Allah. Version 1.0 (2026)</sub>
+
+  <sub>Built for the sake of Allah. Version 1.0 (2026)</sub>
+
 </div>
