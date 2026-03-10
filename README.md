@@ -92,7 +92,7 @@ While downloading, your phone will ask for **Permission**. If you see the **"Fil
 **What to do:** Click on **"Download anyway"** as shown in the red box below to grant permission.
 
 <div align="center">
-  <img src="Screenshot_2.jpg" width="90%" alt="Grant Permission Guide">
+   <img src="screenshots/download_guide.png" width="90%" alt="Permission Guide">
 </div>
 
 ### 3. Complete Installation
