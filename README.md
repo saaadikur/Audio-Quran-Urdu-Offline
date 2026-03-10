@@ -60,28 +60,50 @@
 
 ---
 </div>
-## 📥 Installation Guide
-
-1.  **Visit Releases:** Go to the [Latest Release](https://github.com/saaadikur/Audio-Quran-Urdu-Offline/releases/tag/v1.0.1) page.
 ---
 
+## 📥 ইনস্টলেশন গাইড (Bangla Guide)
+
+### ১. ডাউনলোড শুরু করুন
+সবুজ **DOWNLOAD** বাটনে ক্লিক করুন। 
+
+### ২. পারমিশন বা অনুমতি দিন (সবচেয়ে গুরুত্বপূর্ণ)
+ডাউনলোড করার সময় আপনার ফোন আপনার কাছে **Permission** বা অনুমতি চাইতে পারে। যদি নিচের ছবির মতো **"File might be harmful"** লেখা আসে, তবে ভয়ের কিছু নেই। এটি একটি সাধারণ অ্যান্ড্রয়েড মেসেজ। 
+
+**কি করবেন:** নিচের ছবিতে দেখানো লাল বক্সের মতো **"Download anyway"** বাটনে ক্লিক করুন।
 
 <div align="center">
-  <p><i>Visual guide for Latest Release </i></p> 
-  <img src="screenshots/relese_app.jpg" width="90%" alt="Audio Quran Latest Release Tag">
+  <img src="Screenshot_2.jpg" width="90%" alt="Permission Guide">
+</div>
+
+### ৩. ইনস্টল সম্পন্ন করুন
+ডাউনলোড শেষ হলে ফাইলটি ওপেন করে **Install** বাটনে ক্লিক করুন। (প্রয়োজন হলে ফোনের সেটিংসে গিয়ে "Unknown Sources" অপশনটি চালু করে দিন)।
+
+---
+
+## 📥 Installation Guide (English Guide)
+
+### 1. Start Download
+Click the green **DOWNLOAD** button at the top.
+
+### 2. Grant Permission (Most Important)
+While downloading, your phone will ask for **Permission**. If you see the **"File might be harmful"** warning, do not worry—this is a standard message for apps not on the Play Store.
+
+**What to do:** Click on **"Download anyway"** as shown in the red box below to grant permission.
+
+<div align="center">
+  <img src="Screenshot_2.jpg" width="90%" alt="Grant Permission Guide">
+</div>
+
+### 3. Complete Installation
+Once the download is finished, open the file and click **Install**. (If asked, enable "Unknown Sources" in your device settings).
+
+<div align="center">
+  <p><b>Verify File Details:</b></p>
+  <img src="photo_6161211121503768012_x.jpg" width="80%">
 </div>
 
 ---
-2.  **Download APK:** Select `Audio_Quran_v1.0.1.apk` (about 379MB).
-<div align="center">
-  <p><i>Visual guide for apk file</i></p> 
-  <img src="screenshots/guide_app.jpg" width="90%" alt="Audio Quran v1.0.1 APK Info">
-</div>
-
-3. **Install:** Open the file on your Android device.
-
-> **Note:** You may need to enable **"Install from Unknown Sources"** in your device settings to complete the installation.
-
 > [!IMPORTANT]
 > The file size is large because it contains the **complete** Quranic audio. Once installed, you will never need an internet connection to listen.
 
