@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="screenshots/logo.png" width="180" alt="Audio Quran Urdu Logo">
+  <img src="screenshots/logo.png" width="580" alt="Audio Quran Urdu Logo">
   <div style="text-align: center; font-family: sans-serif;">
   <h1 style="color: #2c3e50; line-height: 1.4; margin-bottom: 5px;">
     Audio Quran
