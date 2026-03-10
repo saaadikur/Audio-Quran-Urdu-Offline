@@ -1,6 +1,6 @@
 🎧 Audio Quran Urdu Offline: Best Urdu Translation App
 <div align="center">
-<img src="screenshots/logo.png" width="120" height="120" alt="Best Urdu Quran Translation App Logo">
+<img src="screenshots/logo.png" width="520" height="520" alt="Best Urdu Quran Translation App Logo">
 <br />
 <p align="center">
 <b>The most accurate, ad-free, and fully offline Urdu Quran translation experience.</b>
