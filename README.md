@@ -65,7 +65,8 @@ To ensure the security of your device, only download the official APK from this 
 
 ---
 
-
+![Downloads](https://img.shields.io/github/downloads/saaadikur/Audio-Quran-Urdu-Offline/total?label=Total%20Downloads&color=32CD32&style=for-the-badge)
+![Views](https://profile-counter.glitch.me/saaadikur-Audio-Quran/count.svg)
 
 ## 🙏 A Humble Request
 
