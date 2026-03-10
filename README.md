@@ -63,8 +63,9 @@
   <p><i>Visual guide for apk file</i></p> 
   <img src="screenshots/guide_app.jpg" width="90%" alt="Audio Quran v1.0.1 APK Info">
 </div>
-3.  **Install:** Open the file on your Android device. 
-    * *Note: You may need to enable "Install from Unknown Sources" in your settings.*
+3. **Install:** Open the file on your Android device.
+
+> **Note:** You may need to enable **"Install from Unknown Sources"** in your device settings to complete the installation.
 
 > [!IMPORTANT]
 > The file size is large because it contains the **complete** Quranic audio. Once installed, you will never need an internet connection to listen.
