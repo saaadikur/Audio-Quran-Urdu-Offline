@@ -1,4 +1,4 @@
-# Audio-Quran-Urdu-Offline
+# Audio-Quran-Urdu-Offline-app
 Offline Urdu Audio Quran (Translation) with English navigation. No ads, no internet required.
 # Audio Quran: Pure Urdu Translation (Offline)
 
