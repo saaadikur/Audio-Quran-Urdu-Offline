@@ -61,7 +61,7 @@
 2.  **Download APK:** Select `Audio_Quran_v1.0.1.apk` (about 379MB).
 <div align="center">
   <p><i>Visual guide for apk file</i></p> 
-  <img src="screenshots/guide_app.jpg" width="45%" alt="Audio Quran v1.0.1 APK Info">
+  <img src="screenshots/guide_app.jpg" width="60%" alt="Audio Quran v1.0.1 APK Info">
 </div>
 3.  **Install:** Open the file on your Android device. 
     * *Note: You may need to enable "Install from Unknown Sources" in your settings.*
