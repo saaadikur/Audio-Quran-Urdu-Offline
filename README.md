@@ -46,6 +46,20 @@
   <img src="screenshots/part_3_Premium Audio Experience.png" width="30%">
 </div>
 
+
+<div align="center">
+
+# 📖 Audio Quran Urdu Offline
+**Pure Urdu Translation • Fully Offline • Ad-Free**
+
+<a href="https://github.com/saaadikur/Audio-Quran-Urdu-Offline/releases/download/v1.0.1/Audio_Quran_v1.0.1.apk">
+  <img src="https://img.shields.io/badge/DOWNLOAD-APK%20(380MB)-success?style=for-the-badge&logo=android" alt="Download APK" height="60">
+</a>
+
+<p><i>Click the green button above to start your download immediately.</i></p>
+
+---
+</div>
 ## 📥 Installation Guide
 
 1.  **Visit Releases:** Go to the [Latest Release](https://github.com/saaadikur/Audio-Quran-Urdu-Offline/releases/tag/v1.0.1) page.
