@@ -63,7 +63,7 @@
   <p><i>Visual guide for apk file</i></p> 
   <img src="screenshots/guide_app.jpg" width="45%" alt="Audio Quran v1.0.1 APK Info">
 </div>
-4.  **Install:** Open the file on your Android device. 
+3.  **Install:** Open the file on your Android device. 
     * *Note: You may need to enable "Install from Unknown Sources" in your settings.*
 
 > [!IMPORTANT]
