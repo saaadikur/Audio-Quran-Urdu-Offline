@@ -53,7 +53,7 @@ To ensure the security of your device, only download the official APK from this 
 
 4.  If prompted, grant permission to "Install from Unknown Sources" (this is required for apps not hosted on the Play Store).
 
-Note: The file size is 379MB because it contains the complete Quranic audio for offline use. Please ensure you have a stable connection and enough storage space before downloading.
+## Note: The file size is 379MB because it contains the complete Quranic audio for offline use. Please ensure you have a stable connection and enough storage space before downloading.
 
 ## 🛠 Tech Stack
 
