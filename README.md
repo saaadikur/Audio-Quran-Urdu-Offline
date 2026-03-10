@@ -49,8 +49,21 @@
 ## 📥 Installation Guide
 
 1.  **Visit Releases:** Go to the [Latest Release](https://github.com/saaadikur/Audio-Quran-Urdu-Offline/releases/tag/v1.0.1) page.
+---
+
+
+<div align="center">
+  <p><i>Visual guide for Latest Release </i></p> 
+  <img src="screenshots/relese_app.jpg" width="45%" alt="Audio Quran Latest Release Tag">
+</div>
+
+---
 2.  **Download APK:** Select `Audio_Quran_v1.0.1.apk` (about 379MB).
-3.  **Install:** Open the file on your Android device. 
+<div align="center">
+  <p><i>Visual guide for apk file</i></p> 
+  <img src="screenshots/guide_app.jpg" width="45%" alt="Audio Quran v1.0.1 APK Info">
+</div>
+4.  **Install:** Open the file on your Android device. 
     * *Note: You may need to enable "Install from Unknown Sources" in your settings.*
 
 > [!IMPORTANT]
