@@ -116,6 +116,32 @@ Once the download is finished, open the file and click **Install**. (If asked, e
 
 ---
 
+## ❓ Frequently Asked Questions (FAQ)
+<details>
+<summary><b>1. উর্দু অনুবাদ কেন? বাংলা কেন নয়?</b></summary>
+
+
+আমি বাংলার জন্য অনেক খুঁজেছিলাম, কিন্তু এই নির্দিষ্ট উর্দু অডিও ফাইলটিতে যে ধরনের আবেগ, গভীর ভাবার্থ এবং ছন্দ রয়েছে, তা সত্যিই অতুলনীয়। উর্দু এমন একটি ভাষা যা কুরআনের তাফসির বা গভীর অর্থকে খুব সহজভাবে প্রকাশ করতে পারে, যা একজন সাধারণ মানুষের পক্ষেও বোঝা সম্ভব। আমার লক্ষ্য ছিল এমন একটি অডিও প্রদান করা যা শুনলে মানুষ কুরআনের বাণীগুলো হৃদয়ে অনুভব করতে পারে।
+</details>
+
+<details>
+<summary><b>৩. পরবর্তী আপডেট কবে আসবে? (When will the next update be released?)</b></summary>
+
+
+<b>বাংলা:</b>
+আমি প্রতি ১০০ দিন পরপর আপডেট দেওয়ার পরিকল্পনা করেছি যদি কোনো বাগ (Bug) পাওয়া যায় বা অ্যাপে কোনো উন্নতির প্রয়োজন হয়। আপনারা অ্যাপের ভেতরে থাকা "Check for Update" বাটনের মাধ্যমে নতুন আপডেট চেক করতে পারবেন। যদি অ্যাপটি কোনো সমস্যা ছাড়াই চলে, তবে নতুন আপডেটের প্রয়োজন নাও হতে পারে।
+
+
+
+<b>English:</b>
+I plan to release updates every 100 days if any bugs are found or improvements are needed. You can check the "Check for Update" button inside the app. If the app is running perfectly, a new update may not be necessary.
+
+
+
+<b>Next Possible Update (পরবর্তী সম্ভাব্য আপডেট):</b> 19 June 2026
+</details>
+
+
 ## 🙏 A Humble Request
 
 This project is developed with sincerity. If you find value in this app, please:
