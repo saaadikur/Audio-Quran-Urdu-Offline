@@ -125,7 +125,7 @@ Once the download is finished, open the file and click **Install**. (If asked, e
 </details>
 
 <details>
-<summary><b>৩. পরবর্তী আপডেট কবে আসবে? (When will the next update be released?)</b></summary>
+<summary><b>2. পরবর্তী আপডেট কবে আসবে? (When will the next update be released?)</b></summary>
 
 
 <b>বাংলা:</b>
