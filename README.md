@@ -15,8 +15,8 @@
     <img src="https://img.shields.io/github/downloads/saaadikur/Audio-Quran-Urdu-Offline/total?label=TOTAL%20DOWNLOADS&color=32CD32&style=for-the-badge" alt="Downloads">
     
   </p>
- <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=007edc&label=REPO%20VIEWS&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fsaaadikur-aq-urdu-off%2Fvisits&style=for-the-badge" alt="Views">
+<p align="center">
+  <img src="https://counter.aditya.sh/get/@saaadikur-urdu-quran?theme=dark" alt="Repo Views">
 </p>
   
   ---
