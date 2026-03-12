@@ -16,7 +16,7 @@
     
   </p>
 <p align="center">
-  ![Views](https://api.visitorbadge.io/api/visitors?path=saaadikur-Audio-Quran-Urdu-Offline&label=REPO%20VIEWS&labelColor=%23555555&countColor=%23007EDC&style=flat-square)
+  <img src="https://img.shields.io/badge/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fsaaadikur%2FAudio-Quran-Urdu-Offline.json&color=007edc&style=flat-square&label=REPO%20VIEWS" alt="Views">
 </p>
   
   ---
