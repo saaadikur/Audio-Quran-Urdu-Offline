@@ -15,8 +15,8 @@
     <img src="https://img.shields.io/github/downloads/saaadikur/Audio-Quran-Urdu-Offline/total?label=TOTAL%20DOWNLOADS&color=32CD32&style=for-the-badge" alt="Downloads">
     
   </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fsaaadikur%2FAudio-Quran-Urdu-Offline.json&color=007edc&style=flat-square&label=REPO%20VIEWS" alt="Views">
+<p align="left">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaaadikur%2FAudio-Quran-Urdu-Offline&count_bg=%23007EDC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=REPO%20VIEWS&edge_flat=false" alt="Views">
 </p>
   
   ---
