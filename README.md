@@ -16,7 +16,7 @@
     
   </p>
 <p align="left">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaaadikur%2FAudio-Quran-Urdu-Offline&count_bg=%23007EDC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=REPO%20VIEWS&edge_flat=false" alt="Views">
+  <img src="https://komarev.com/ghpvc/?username=saaadikur-Audio-Quran-Urdu-Offline&label=REPO%20VIEWS&color=007edc&style=flat-square" alt="Repo Views">
 </p>
   
   ---
