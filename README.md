@@ -13,8 +13,9 @@
 
   <p>
     <img src="https://img.shields.io/github/downloads/saaadikur/Audio-Quran-Urdu-Offline/total?label=TOTAL%20DOWNLOADS&color=32CD32&style=for-the-badge" alt="Downloads">
-    ![Views](https://api.visitorbadge.io/api/visitors?path=saaadikur-Audio-Quran-Urdu-Offline&label=REPO%20VIEWS&labelColor=%23555555&countColor=%23007EDC&style=flat-square)
+    
   </p>
+  ![Views](https://api.visitorbadge.io/api/visitors?path=saaadikur-Audio-Quran-Urdu-Offline&label=REPO%20VIEWS&labelColor=%23555555&countColor=%23007EDC&style=flat-square)
   
   ---
   
