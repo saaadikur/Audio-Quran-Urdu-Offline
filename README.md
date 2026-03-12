@@ -13,10 +13,10 @@
 
   <p>
     <img src="https://img.shields.io/github/downloads/saaadikur/Audio-Quran-Urdu-Offline/total?label=TOTAL%20DOWNLOADS&color=32CD32&style=for-the-badge" alt="Downloads">
-    
+     <img src="https://komarev.com/ghpvc/?username=saaadikur-Audio-Quran-Urdu-Offline&label=REPO%20VIEWS&color=007edc&style=flat-square" alt="Repo Views">
   </p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=saaadikur-Audio-Quran-Urdu-Offline&label=REPO%20VIEWS&color=007edc&style=flat-square" alt="Repo Views">
+<p align="">
+ 
 </p>
   
   ---
