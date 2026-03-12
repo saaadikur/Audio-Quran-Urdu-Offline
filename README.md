@@ -16,7 +16,7 @@
     
   </p>
 <p align="center">
-  <img src="https://counter.aditya.sh/get/@saaadikur-urdu-quran?theme=dark" alt="Repo Views">
+  ![Views](https://api.visitorbadge.io/api/visitors?path=saaadikur-Audio-Quran-Urdu-Offline&label=REPO%20VIEWS&labelColor=%23555555&countColor=%23007EDC&style=flat-square)
 </p>
   
   ---
